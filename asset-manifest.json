@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/figma/static/css/main.a7ff9808.chunk.css",
+    "main.js": "/figma/static/js/main.66b588c8.chunk.js",
+    "main.js.map": "/figma/static/js/main.66b588c8.chunk.js.map",
+    "runtime-main.js": "/figma/static/js/runtime-main.b44f1692.js",
+    "runtime-main.js.map": "/figma/static/js/runtime-main.b44f1692.js.map",
+    "static/js/2.a461c38b.chunk.js": "/figma/static/js/2.a461c38b.chunk.js",
+    "static/js/2.a461c38b.chunk.js.map": "/figma/static/js/2.a461c38b.chunk.js.map",
+    "index.html": "/figma/index.html",
+    "static/css/main.a7ff9808.chunk.css.map": "/figma/static/css/main.a7ff9808.chunk.css.map",
+    "static/js/2.a461c38b.chunk.js.LICENSE.txt": "/figma/static/js/2.a461c38b.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/figma/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/figma/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/figma/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/figma/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/figma/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/figma/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/figma/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/figma/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/figma/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44f1692.js",
+    "static/js/2.a461c38b.chunk.js",
+    "static/css/main.a7ff9808.chunk.css",
+    "static/js/main.66b588c8.chunk.js"
+  ]
+}
